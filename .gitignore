@@ -108,8 +108,10 @@ celerybeat.pid
 # Environments
 .env
 .venv
+.scrapy_env
 env/
 venv/
+scrapy_env/
 ENV/
 env.bak/
 venv.bak/
